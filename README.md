@@ -85,3 +85,6 @@ gcc -o labirinto grafo_beatrice_e_gabriele.cpp
 - Saída colorida no terminal via API do Windows.
 
 ---
+
+<img width="621" height="593" alt="Captura de tela 2026-06-24 180119" src="https://github.com/user-attachments/assets/9c10149c-64c9-4ca4-bfe0-0d35a3647c6f" />
+<img width="476" height="557" alt="Captura de tela 2026-06-24 180143" src="https://github.com/user-attachments/assets/3e3a5404-2657-4e16-b84b-542038f38310" />
